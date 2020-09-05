@@ -1,4 +1,4 @@
-<codersrank-widget username="matfax"></codersrank-widget>
+[<img src="https://cdn.image4.io/matfax/f_auto/codersrank.png" width="580px">](https://profile.codersrank.io/user/matfax)
 
 ### Hi there 👋
 
@@ -14,8 +14,12 @@
 
 #### 👯 I’m looking to collaborate on ...
 
-##### Projects that focus on open source quality control
->>> My key agenda in the open source realm is the reduction of overhead and the enhancement of quality transparency by means of convention and automation.
+##### :octocat: Projects that focus on open source quality control
+>> My key agenda in the open source realm is the reduction of overhead and the enhancement of quality transparency by means of convention and automation.
+
+#### :clipboard: I've worked with these languages ...
+
+[<img src="https://cdn.image4.io/matfax/f_auto/languages.png" width="720px">](https://profile.codersrank.io/user/matfax)
 
 <!--
 **matfax/matfax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
