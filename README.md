@@ -26,9 +26,11 @@
 [![Codersrank](https://cdn.image4.io/matfax/c_scale,w_760/languages.png)](https://profile.codersrank.io/user/matfax)
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20Lines%20of%20code-blue)
+
 **🐱 My Github Data** 
 
-> 🏆 417 Contributions in the year 2020
+> 🏆 419 Contributions in the year 2020
  > 
 > 📦 91.9 kB Used in Github's Storage 
  > 
@@ -41,6 +43,9 @@
 📊 **This Week I Spend My Time On** 
 
 ```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
 🔥 Code Editors: 
 No Activity Tracked This Week
 
