@@ -26,6 +26,74 @@
 [![Codersrank](https://cdn.image4.io/matfax/c_scale,w_760/languages.png)](https://profile.codersrank.io/user/matfax)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 417 Contributions in the year 2020
+ > 
+> 📦 91.9 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 40 Public repositories
+ > 
+> 🔑 6 Private repositories 
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.05% 
+🌆 Daytime    217 commits    ██████████░░░░░░░░░░░░░░░   42.38% 
+🌃 Evening    258 commits    ████████████░░░░░░░░░░░░░   50.39% 
+🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       94 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
+Tuesday      64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Wednesday    88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
+Thursday     28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.47% 
+Friday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
+Saturday     91 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.77% 
+Sunday       95 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.55%
+
+```
+
+
+📊 **This Week I Spend My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Code Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Scala                    4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Jupyter Notebook         1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Shell                    1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/matfax/matfax/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <!--
