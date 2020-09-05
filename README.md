@@ -1,4 +1,21 @@
+<codersrank-widget username="matfax"></codersrank-widget>
+
 ### Hi there 👋
+
+#### 🔭 I’m currently working on ...
+
+1. NodeJS HTML streaming
+1. Docker tagging automation
+
+#### 🌱 I’m currently learning ...
+
+1. Migrating ESM to TypeScript
+1. Getting yarn2 to work without checked-out dependencies
+
+#### 👯 I’m looking to collaborate on ...
+
+##### Projects that focus on open source quality control
+>>> My key agenda in the open source realm is the reduction of overhead and the enhancement of quality transparency by means of convention and automation.
 
 <!--
 **matfax/matfax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
