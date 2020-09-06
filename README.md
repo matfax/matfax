@@ -26,11 +26,11 @@
 [![Codersrank](https://cdn.image4.io/matfax/c_scale,w_760/languages.png)](https://profile.codersrank.io/user/matfax)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20Lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 419 Contributions in the year 2020
+> 🏆 437 Contributions in the year 2020
  > 
 > 📦 91.9 kB Used in Github's Storage 
  > 
