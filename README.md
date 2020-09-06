@@ -26,11 +26,9 @@
 [![Codersrank](https://cdn.image4.io/matfax/c_scale,w_760/languages.png)](https://profile.codersrank.io/user/matfax)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20Lines%20of%20code-blue)
-
 **🐱 My Github Data** 
 
-> 🏆 437 Contributions in the year 2020
+> 🏆 438 Contributions in the year 2020
  > 
 > 📦 91.9 kB Used in Github's Storage 
  > 
@@ -44,13 +42,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 hrs 49 mins       ████████████████████████░   99.39% 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57% 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Code Editors: 
-No Activity Tracked This Week
+Chrome                   4 hrs 49 mins       ████████████████████████░   99.3% 
+IntelliJ                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tuplip-action            4 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
