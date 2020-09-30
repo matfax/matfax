@@ -4,13 +4,13 @@
 
 #### 🔭 I’m currently working on ...
 
+1. GitHub Actions ecosystem
 1. NodeJS HTML streaming
 1. Docker tagging automation
 
 #### 🌱 I’m currently learning ...
 
-1. Migrating ESM to TypeScript
-1. Getting yarn2 to work without checked-out dependencies
+1. TypeScript
 
 #### 👯 I’m looking to collaborate on ...
 
