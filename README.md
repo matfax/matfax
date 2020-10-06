@@ -10,7 +10,7 @@
 
 #### 🌱 I’m currently learning ...
 
-1. TypeScript
+1. The limits of GitHub Actions
 
 #### 👯 I’m looking to collaborate on ...
 
