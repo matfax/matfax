@@ -1,4 +1,4 @@
-[![Codersrank](https://cdn.image4.io/matfax/c_scale,w_540/codersrank.png)](https://profile.codersrank.io/user/matfax)
+[![Codersrank](assets/img/badge.png)](https://profile.codersrank.io/user/matfax)
 
 ### Hi there 👋
 
@@ -23,7 +23,7 @@
 
 #### :clipboard: I've worked with these languages ...
 
-[![Codersrank](https://cdn.image4.io/matfax/c_scale,w_760/languages.png)](https://profile.codersrank.io/user/matfax)
+[![Codersrank](assets/img/languages.png)](https://profile.codersrank.io/user/matfax)
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
