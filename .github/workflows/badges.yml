@@ -1,0 +1,46 @@
+name: badges
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 1 * * *'
+
+jobs:
+  update:
+    runs-on: ${{ matrix.os }}
+    defaults:
+      run:
+        shell: bash
+    strategy:
+      matrix:
+        node-version: [ 12.x ]
+        os: [ ubuntu-latest ]
+        pnpm-version: [ 5.7.0 ]
+    steps:
+      - name: check out code
+        uses: actions/checkout@v2.3.2
+        with:
+          ref: gh-pages
+          token: ${{ secrets.BOT }}
+      - name: setup node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2.1.1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: setup pnpm
+        uses: pnpm/action-setup@v1.2.0
+        with:
+          version: ${{ matrix.pnpm-version }}
+          run_install: |
+            - args: [--global, pageres-cli]
+      - name: generate profile badge
+        run: |
+          pnpx pageres ./templates/codersrank.html --scale=1.2 --overwrite --crop --selector="codersrank-widget" --filename="assets/img/badge"
+      - name: generate languages badge
+        run: |
+          pnpx pageres https://profile.codersrank.io/user/matfax/ --scale=0.85 --overwrite --crop --selector=".cr-area-chart" --filename="assets/img/languages" --css='templates/languages.css'
+      - name: commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v4.4.1
+        with:
+          commit_message: |
+            docs: update badges
+          file_pattern: '**.png'
