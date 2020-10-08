@@ -19,6 +19,7 @@ jobs:
         uses: satackey/action-docker-layer-caching@v0.0.8
         continue-on-error: true
         with:
+          concurrency: 16
           key: waka-${{ hashFiles('./waka/Dockerfile') }}-${{ hashFiles('./waka/requirements.txt') }}-${{ hashFiles('./waka/**.*') }}
           restore-keys: |
             waka-${{ hashFiles('./waka/Dockerfile') }}-${{ hashFiles('./waka/requirements.txt') }}-${{ hashFiles('./waka/**.*') }}
