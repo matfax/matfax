@@ -19,7 +19,11 @@ jobs:
         uses: satackey/action-docker-layer-caching@v0.0.8
         continue-on-error: true
         with:
-          key: waka-${{ hashFiles('./waka/Dockerfile') }}-${{ hashFiles('./waka/requirements.txt') }}
+          key: waka-${{ hashFiles('./waka/Dockerfile') }}-${{ hashFiles('./waka/requirements.txt') }}-${{ hashFiles('./waka/**.*') }}
+          restore-keys: |
+            waka-${{ hashFiles('./waka/Dockerfile') }}-${{ hashFiles('./waka/requirements.txt') }}-${{ hashFiles('./waka/**.*') }}
+            waka-${{ hashFiles('./waka/Dockerfile') }}-${{ hashFiles('./waka/requirements.txt') }}
+            waka-${{ hashFiles('./waka/Dockerfile') }}
       - name: update stats
         uses: ./waka/
         with:
