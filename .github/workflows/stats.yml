@@ -9,24 +9,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout tools repo
-        uses: actions/checkout@v2.3.3
-        with:
-          repository: anmol098/waka-readme-stats
-          path: waka
-          persist-credentials: false
-      - name: cache docker layers
-        uses: satackey/action-docker-layer-caching@v0.0.8
-        continue-on-error: true
-        with:
-          concurrency: 16
-          key: waka-${{ hashFiles('./waka/Dockerfile') }}-${{ hashFiles('./waka/requirements.txt') }}-${{ hashFiles('./waka/**.*') }}
-          restore-keys: |
-            waka-${{ hashFiles('./waka/Dockerfile') }}-${{ hashFiles('./waka/requirements.txt') }}-${{ hashFiles('./waka/**.*') }}
-            waka-${{ hashFiles('./waka/Dockerfile') }}-${{ hashFiles('./waka/requirements.txt') }}
-            waka-${{ hashFiles('./waka/Dockerfile') }}
       - name: update stats
-        uses: ./waka/
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.PAT }}
