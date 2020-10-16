@@ -31,10 +31,10 @@ jobs:
             - args: [--global, pageres-cli]
       - name: generate profile badge
         run: |
-          pnpx pageres ./templates/codersrank.html --scale=1.2 --delay=1 --overwrite --crop --selector="codersrank-widget" --filename="assets/img/badge"
+          pnpx pageres ./templates/codersrank.html --scale=1.2 --delay=2 --overwrite --crop --selector="codersrank-widget" --filename="assets/img/badge"
       - name: generate languages badge
         run: |
-          pnpx pageres https://profile.codersrank.io/user/matfax/ --scale=0.85 --delay=1 --overwrite --crop --selector=".cr-area-chart" --filename="assets/img/languages" --css='templates/languages.css'
+          pnpx pageres https://profile.codersrank.io/user/matfax/ --scale=0.85 --delay=2 --overwrite --crop --selector=".cr-area-chart" --filename="assets/img/languages" --css='templates/languages.css'
       - name: Compress Images
         uses: calibreapp/image-actions@master
         with:
