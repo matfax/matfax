@@ -1,5 +1,3 @@
-[![Codersrank](assets/img/badge.png)](https://profile.codersrank.io/user/matfax)
-
 ### Hi there 👋
 
 #### 🔭 I’m currently working on ...
@@ -23,7 +21,7 @@
 
 #### :clipboard: I've worked with these languages ...
 
-[![Codersrank](assets/img/languages.png)](https://profile.codersrank.io/user/matfax)
+[![Codersrank](assets/img/badge.png)](https://profile.codersrank.io/user/matfax)
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
