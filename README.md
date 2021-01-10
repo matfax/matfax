@@ -40,13 +40,13 @@
 
 ```text
 💬 Programming Languages: 
-Other                    42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-update-codeowners        42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
