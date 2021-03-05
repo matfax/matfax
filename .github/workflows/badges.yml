@@ -38,7 +38,7 @@ jobs:
           githubToken: ${{ github.token }}
           compressOnly: true
       - name: commit changed files
-        uses: stefanzweifel/git-auto-commit-action@v4.7.2
+        uses: stefanzweifel/git-auto-commit-action@v4.9.2
         with:
           commit_message: |
             docs: update badges
