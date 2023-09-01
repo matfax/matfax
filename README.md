@@ -30,7 +30,7 @@ Kotlin Symbol Processing API
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-735%20hrs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,12 +48,13 @@ Kotlin Symbol Processing API
 
 ```text
 🔥 Editors: 
-Chrome                   1 hr 22 mins        ████████████████░░░░░░░░░   64.07 % 
-IntelliJ                 46 mins             █████████░░░░░░░░░░░░░░░░   35.93 % 
+Chrome                   1 hr 22 mins        ████████████████░░░░░░░░░   63.54 % 
+IntelliJ                 46 mins             █████████░░░░░░░░░░░░░░░░   35.51 % 
+Zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 
- Last Updated on 31/08/2023 01:43:51 UTC
+ Last Updated on 01/09/2023 01:45:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
