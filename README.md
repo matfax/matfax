@@ -30,8 +30,6 @@ Kotlin Symbol Processing API
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C313%20hrs%2010%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
@@ -44,15 +42,8 @@ Kotlin Symbol Processing API
  > 
 > 🔑 30 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🔥 Editors: 
-Chrome                   23 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 09/01/2025 02:11:52 UTC
+ Last Updated on 10/01/2025 02:00:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
