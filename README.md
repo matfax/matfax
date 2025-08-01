@@ -5,6 +5,8 @@
 * Finding [active forks](https://github.com/techgaun/active-forks) of unmaintained projects
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%2058%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
@@ -17,8 +19,15 @@
  > 
 > 🔑 30 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 31/07/2025 02:12:10 UTC
+```text
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 01/08/2025 02:12:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
