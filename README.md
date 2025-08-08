@@ -4,32 +4,6 @@
 
 * Finding [active forks](https://github.com/techgaun/active-forks) of unmaintained projects
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%2058%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.0 MB Used in GitHub's Storage 
- > 
-> 🏆 110 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 52 Public Repositories 
- > 
-> 🔑 30 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 08/08/2025 02:12:10 UTC
-<!--END_SECTION:waka-->
-
 <!--
 **matfax/matfax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
