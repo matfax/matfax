@@ -1,0 +1,22 @@
+name: squash commits
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 */90 * *' # Runs every day at midnight
+
+jobs:
+  squash:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: checkout code
+      uses: actions/checkout@v5
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: fregante/setup-git-user@v2
+    - name: squash commits
+      run: |
+        git reset $(git commit-tree HEAD^{tree} -m "Squashed commit for all changes upto $(date +'%Y-%m-%d')")
+        git push -u origin main -f
